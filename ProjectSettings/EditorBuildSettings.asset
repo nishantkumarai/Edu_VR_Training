@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Laboratory Scene.unity
     guid: 49511e5299fc0524894bb318619844dd
+  - enabled: 1
+    path: Assets/Scenes/City Scene.unity
+    guid: 7e6d3f4e5d896154ab4438845532ac3e
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: c7cef19b223c201438c802a714085367, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
